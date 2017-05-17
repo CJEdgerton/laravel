@@ -13,8 +13,8 @@ class RedirectIfAuthenticated
      *
      * @var string
      */
-    protected $redirectTo = '/home';
-    
+    protected $redirectTo = '/';
+
     /**
      * Handle an incoming request.
      *
